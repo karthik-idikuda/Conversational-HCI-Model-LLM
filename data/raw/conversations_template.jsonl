@@ -1,0 +1,2 @@
+{"conversation_id":"c1001","user_id":"u1001","session_id":"s1001","task_id":"t1","turn_index":1,"role":"user","utterance":"I need to change my appointment.","timestamp":"2026-03-22T08:00:00Z","gold_response":"Sure. Please share your appointment ID and preferred new time."}
+{"conversation_id":"c1001","user_id":"u1001","session_id":"s1001","task_id":"t1","turn_index":2,"role":"assistant","utterance":"Sure. Please share your appointment ID and preferred new time.","timestamp":"2026-03-22T08:00:02Z"}

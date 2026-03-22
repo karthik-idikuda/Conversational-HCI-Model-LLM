@@ -1,0 +1,3 @@
+user_id,age_group,language,accessibility_needs,domain_expertise
+u1,25-34,en,"none",low
+u2,35-44,en,"screen_reader",medium

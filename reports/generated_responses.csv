@@ -1,0 +1,3 @@
+conversation_id,session_id,task_id,turn_index,user_utterance,gold_response,generated_response
+c1,s1,t1,1,I am trying to book a doctor appointment for tomorrow.,Sure. What city are you in and what time works best?,I can help schedule that. Which city and preferred time should I use?
+c2,s2,t2,1,I cannot find where to reset my password.,I can help. Are you in the mobile app or website settings page?,I can help with password reset. Are you on the app or the website right now?

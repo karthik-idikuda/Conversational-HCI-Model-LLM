@@ -1,0 +1,41 @@
+{
+  "dataset_overview": {
+    "num_rows": 2,
+    "num_conversations": 2,
+    "num_sessions": 2,
+    "num_tasks": 2,
+    "avg_user_utterance_chars": 47.5,
+    "avg_generated_response_chars": 72.5,
+    "avg_overlap_vs_gold": 0.2789473684210526
+  },
+  "task_level_summary": [
+    {
+      "task_id": "t1",
+      "num_samples": 1,
+      "avg_generated_chars": 69.0,
+      "avg_overlap_vs_gold": 0.15789473684210525
+    },
+    {
+      "task_id": "t2",
+      "num_samples": 1,
+      "avg_generated_chars": 76.0,
+      "avg_overlap_vs_gold": 0.4
+    }
+  ],
+  "conversation_level_summary": [
+    {
+      "conversation_id": "c1",
+      "session_id": "s1",
+      "num_user_turns": 1,
+      "avg_generated_chars": 69.0,
+      "avg_overlap_vs_gold": 0.15789473684210525
+    },
+    {
+      "conversation_id": "c2",
+      "session_id": "s2",
+      "num_user_turns": 1,
+      "avg_generated_chars": 76.0,
+      "avg_overlap_vs_gold": 0.4
+    }
+  ]
+}

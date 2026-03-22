@@ -1,0 +1,3 @@
+conversation_id,session_id,num_user_turns,avg_generated_chars,avg_overlap_vs_gold
+c1,s1,1,69.0,0.15789473684210525
+c2,s2,1,76.0,0.4

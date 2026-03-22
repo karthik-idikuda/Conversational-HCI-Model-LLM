@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+venv/
+venv2/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.local
+.DS_Store
+dist/
+build/
+.next/
+target/
+*.db
+.gradle/
